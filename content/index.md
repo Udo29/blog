@@ -1,11 +1,11 @@
 ---
-title: Welcome to Quartz
+title: Udo's blog 🇫🇷
 ---
 ## Quick introduction of myself
 
 ### Whoami ?
-**Udo**
-French consultant in CyberSecurity
+**Udo**  
+French consultant in CyberSecurity  
 Member of [LesPiresHat](https://piresh.at/ctfs/)
 
 My LinkedIn for professional contact:
@@ -16,23 +16,24 @@ List of my accounts on cybersecurity training platforms:
 - [RootMe](https://www.root-me.org/Udo29)
 
 # Summary
-- What can I offer to your organization
-	- Penetration Tests
-	- User Awareness Training on Cyber Risks
-	
-- HackTheBox Walkthroughs
-	- Boxes
-		- [[Manager]]
-		- [[Surveillance]]
-		- [[Zipping]]
-- CTFs Write-Ups
-- CheatSheets
-	- Web
-	- Active Directory
-	- Pentest
-	- Certifications
-		- CTPS
-		- CBBH
+
+## CheatSheets
+(in progress)
+- [[Web]]
+- [[Active Directory]]
+- [[Pentest]]
+- Certifications
+	- [[CPTS]]
+	- [[CBBH]]
+
+## HackTheBox Walkthroughs
+(more walkthrough will be added later)
+- Boxes
+	- [[Manager]]
+	- [[Surveillance]]
+	- [[Zipping]]
+
+## Informations
 - [[Resume - CV]]
 - [[Certifications]]
 - [[CTFs results]]
