@@ -1,5 +1,5 @@
 ---
-title: Udo's blog 🇫🇷
+title: Welcome to my blog
 ---
 ## Quick introduction of myself
 
