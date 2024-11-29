@@ -32,6 +32,7 @@ List of my accounts on cybersecurity training platforms:
 	- [[Manager]]
 	- [[Surveillance]]
 	- [[Zipping]]
+	- [[Bank]]
 
 ## Informations
 - [[Resume - CV]]
