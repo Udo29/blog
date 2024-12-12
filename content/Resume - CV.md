@@ -2,8 +2,7 @@
 
 Ethical Hacker  
 *freelance - from 10/2024 to present*
-- Penetration Tests both internal and external
-- Participating in Bug Bounty programs
+
 
 Cybersecurity Engineer  
 *at Solutec - from 10/2023 to 10/2024*
