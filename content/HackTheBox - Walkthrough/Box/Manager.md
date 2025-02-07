@@ -9,9 +9,9 @@ paperurl: 'http://academicpages.github.io/files/manager.pdf'
 citation: ''
 ---
 
-![](banner.png)
+![](public/HackTheBox---Walkthrough/Box/banner.png)
 
-![[Manager.png]]
+![[content/HackTheBox - Walkthrough/Box/img/Manager.png]]
  
 
 

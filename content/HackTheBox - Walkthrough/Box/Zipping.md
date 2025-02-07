@@ -9,9 +9,9 @@ paperurl: 'http://academicpages.github.io/files/zipping.pdf'
 citation: ''
 ---
 
-![[banner.png]]
+![[public/HackTheBox---Walkthrough/Box/banner.png]]
 
-![[Zipping.png]]
+![[content/HackTheBox - Walkthrough/Box/img/Zipping.png]]
 
 
 
@@ -203,7 +203,7 @@ if(preg_match("/^.*[A-Za-z!#$%^&*()\-_=+{}\[\]\\|;:'\",.<>\/?]|[^0-9]$/", $id, $
 Now let's look at the second functionality of the website, the adding of a product to the cart.
 
 By looking through burp while doing the request on the website, we can see the following:
-![[burp1.png]]
+![[content/HackTheBox - Walkthrough/Box/img/burp1.png]]
 
 It turns out that the `product_id` is vulnerable to a SQLi.  
 With combining a SQLi and the `preg_match()` bypass we saw earlier, we might be able to write a reverse shell on the machine.

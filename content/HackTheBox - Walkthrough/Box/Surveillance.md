@@ -9,9 +9,9 @@ paperurl: 'http://academicpages.github.io/files/surveillance.pdf'
 citation: ''
 ---
 
-![](banner.png)
+![](public/HackTheBox---Walkthrough/Box/banner.png)
 
-![[Surveillance.png]]
+![[content/HackTheBox - Walkthrough/Box/img/Surveillance.png]]
 
 ### Description:
 
@@ -66,7 +66,7 @@ public function beforeAction($action): bool
 
 And a POC for the exploit:
 
-![[poc_surveillance.png]]
+![[content/HackTheBox - Walkthrough/Box/img/poc_surveillance.png]]
 
 ### Public Exploit
 

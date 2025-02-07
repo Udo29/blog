@@ -1,6 +1,6 @@
-![[banner.png]]
+![[public/HackTheBox---Walkthrough/Box/banner.png]]
 
-![[Bank.png]]
+![[content/HackTheBox - Walkthrough/Box/img/Bank.png]]
 
 ### Description
 
