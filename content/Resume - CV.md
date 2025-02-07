@@ -1,10 +1,9 @@
 # Professional Experience
 
-Ethical Hacker  
+Cyber Security Consultant
 *freelance - from 10/2024 to present*
 
-
-Cybersecurity Engineer  
+Cyber Security Engineer  
 *at Solutec - from 10/2023 to 10/2024*
 - Penetration Tests
 - Improving Azure cloud monitoring and security
@@ -12,7 +11,7 @@ Cybersecurity Engineer
 - L3 Support
 - RUN Team
 
-Cybersecurity Analyst  
+Cyber Security Analyst  
 *at Ministère des Armées - from 10/2021 to 10/2023*
 - Penetration Tests (mostly web)
 - Cyber Governance
