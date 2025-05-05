@@ -1,12 +1,13 @@
-# Professional Experience
+## Professional Experience
 
 Cyber Security Consultant
 *freelance - from 10/2024 to present*
 
 Cyber Security Engineer  
 *at Solutec - from 10/2023 to 10/2024*
-- Penetration Tests
-- Improving Azure cloud monitoring and security
+- Improving Azure cloud security and secure score
+- Improving Azure cloud operational and security monitoring
+- Setting up alerts on incidents
 - Helping set up a Vulnerability Disclosure Policy (VDP)
 - L3 Support
 - RUN Team
@@ -18,7 +19,7 @@ Cyber Security Analyst
 - Risk Analysis
 - User Awareness on cyber risks
 - Organizational and compliance audit
-# Education
+## Education
 Master's degree in Cybersecurity  
 *at Ynov from 2021 to 2023*
 - Operating Systems security & attacks
@@ -32,3 +33,5 @@ Master 1 in Cryptology and Security
 Bachelor's degree in Computer Science  
 *at Université Bretagne-Sud from 2017 to 2020*
 
+## Skills
+Network security | Web security | System security | Penetration tests | Cyber governance | OWASP 10 | Scripting python, bash & powershell | Report writing | KQL | Azure | Monitoring
